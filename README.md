@@ -2,7 +2,7 @@
 **Full-Stack Developer**  
 📍 Pune, Maharashtra, India  
 
-📧 samarthb.2525@gmail.com &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp; | &nbsp; [Portfolio](https://your-portfolio-link) &nbsp;
+📧 samarthb.2525@gmail.com &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp; | &nbsp; [Portfolio]([https://your-portfolio-link](https://codewithsam-portfolio.vercel.app/) &nbsp;
 
 ---
 
