@@ -1,5 +1,5 @@
 # 👨‍💻 Samarth Bhandare  
-**Full-Stack Developer | React Native & React.js Specialist**  
+**Full-Stack Developer**  
 📍 Pune, Maharashtra, India  
 
 📧 samarthb.2525@gmail.com &nbsp; | &nbsp; 📱 +91 8857012009 &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp; | &nbsp; [Portfolio](https://your-portfolio-link) &nbsp; | &nbsp; [GitHub](https://github.com/codewithsam-git)
@@ -58,12 +58,4 @@ Sangmeshwar College, Solapur — 2020–2023
 **S.S.C** (82%) — 2018  
 V.M. Mehta High School, Solapur  
 
-### 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=codewithsam-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewithsam-git&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsam-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
