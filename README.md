@@ -2,7 +2,7 @@
 **Full-Stack Developer**  
 📍 Pune, Maharashtra, India  
 
-📧 samarthb.2525@gmail.com &nbsp; | &nbsp; 📱 +91 8857012009 &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp; | &nbsp; [Portfolio](https://your-portfolio-link) &nbsp; | &nbsp; [GitHub](https://github.com/codewithsam-git)
+📧 samarthb.2525@gmail.com &nbsp; | &nbsp; 📱 +91 8857012009 &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/your-linkedin) &nbsp; | &nbsp; [Portfolio](https://your-portfolio-link) &nbsp;
 
 ---
 
@@ -31,5 +31,5 @@ Software Developer with 2+ years of experience building scalable web and mobile 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-r
+
 ---
