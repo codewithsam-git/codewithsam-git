@@ -31,31 +31,4 @@ Software Developer with 2+ years of experience building scalable web and mobile 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🏢 Professional Experience  
-
-**Software Developer**  
-*Cronico Digital Private Limited* — Pune, Maharashtra  
-*February 2025 – Present*  
-- Building high-performance mobile applications using React Native, delivering native-like user experiences with complex features  
-- Architected scalable backend APIs using Express.js, emphasizing performance optimization and clean code architecture  
-
-**React Developer**  
-*Codeworld Infotech Private Limited* — Solapur, Maharashtra  
-*July 2023 – October 2024*  
-- Integrated RESTful APIs for seamless real-time data flow and efficient handling across application components  
-- Collaborated with cross-functional teams to deliver pixel-perfect, responsive, and user-centric interfaces that boosted engagement  
-
-### 🎓 Education  
-
-**Master in Computer Science** (CGPA: 8.14)  
-Sangmeshwar College, Solapur — 2023–2025  
-
-**Bachelor of Computer Science** (CGPA: 8.80)  
-Sangmeshwar College, Solapur — 2020–2023  
-
-**H.S.C** (67%) — 2019–2020  
-**S.S.C** (82%) — 2018  
-V.M. Mehta High School, Solapur  
-
 ---
