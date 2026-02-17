@@ -1,6 +1,6 @@
 # 👨‍💻 Samarth Bhandare  
 **Full-Stack Developer**  
-📍 Pune, Maharashtra, India  
+📍 Solapur, Maharashtra, India  
 
 📧 samarthb.2525@gmail.com &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/samarth-bhandare-5bbaba209/) &nbsp; | &nbsp; [Portfolio](https://codewithsam-portfolio.vercel.app/) &nbsp;
 
