@@ -7,7 +7,7 @@
 ---
 
 ### 💫 Career Objective  
-Software Developer with 2+ years of experience building scalable web and mobile applications. Seeking a challenging position within a dynamic organization where I can apply my expertise in full-stack development to contribute effectively towards organizational goals.
+Software Developer with 2+ years of experience in building scalable web and mobile applications, able to apply expertise in frontend and backend development to deliver reliable and high-performing solutions.
 
 ### 💻 Technical Skills  
 
