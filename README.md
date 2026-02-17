@@ -7,7 +7,7 @@
 ---
 
 ### 💫 Career Objective  
-Software Developer with 2+ years of experience in building scalable web and mobile applications, able to apply expertise in frontend and backend development to deliver reliable and high-performing solutions.
+Software Developer with 2.5 years of experience in building scalable web and mobile applications, able to apply expertise in frontend and backend development to deliver reliable and high-performing solutions.
 
 ### 💻 Technical Skills  
 
